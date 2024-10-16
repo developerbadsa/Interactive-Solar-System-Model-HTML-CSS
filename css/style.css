@@ -5,13 +5,11 @@ body{
 
 /*======= Interactive Solar System Model section css ========= */
 
-/* #solarAnimatedSection {
-  width: 700px;
-  height: 700px;
-  right: 0;
-  top: 0
-} */
 
+#solarAnimatedSection {
+  width: 100%;
+
+}
 
 .orbit {
   border: 4px dotted #cbccd2;
